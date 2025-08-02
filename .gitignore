@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+env_recsys_start/
 build/
 develop-eggs/
 dist/
